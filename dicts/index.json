@@ -1,0 +1,14 @@
+{
+  "dictionaries": {
+
+    "urbandictionary" : {
+      "title": "101 Popular",
+      "uri": "101popular.json"
+    },
+    "sworewords" : {
+      "title": "Swore words",
+      "uri": "swore.json"
+    }
+  }
+
+}

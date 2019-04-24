@@ -1,0 +1,294 @@
+{
+  "words": [
+    {
+      "word": "Book",
+      "category": "101 popular",
+      "tabooWords": ["paper", "reading", "word"]
+    },
+    {
+      "word": "Business",
+      "category": "101 popular",
+      "tabooWords": ["job", "organisation", "manager"]
+    },
+    {
+      "word": "Car",
+      "category": "101 popular",
+      "tabooWords": ["vehicle", "transport", "drive"]
+    },
+    {
+      "word": "Change",
+      "category": "101 popular",
+      "tabooWords": ["variable", "constant", "modify"]
+    },
+    {
+      "word": "Child",
+      "category": "101 popular",
+      "tabooWords": ["kid", "young", "boy and girl"]
+    },
+    {
+      "word": "City",
+      "category": "101 popular",
+      "tabooWords": ["town", "people", "urban"]
+    },
+    {
+      "word": "Company",
+      "category": "101 popular",
+      "tabooWords": ["organisation", "community", "business"]
+    },
+    {
+      "word": "Education",
+      "category": "101 popular",
+      "tabooWords": ["learn", "teach", "knowledge"]
+    },
+    {
+      "word": "Face",
+      "category": "101 popular",
+      "tabooWords": ["mouth", "eye", "nose"]
+    },
+    {
+      "word": "Fact",
+      "category": "101 popular",
+      "tabooWords": ["exist", "truth", "point"]
+    },
+    {
+      "word": "Family",
+      "category": "101 popular",
+      "tabooWords": ["man and woman", "couple", "Wife and husband"]
+    },
+    {
+      "word": "Father",
+      "category": "101 popular",
+      "tabooWords": ["mother", "woman", "child"]
+    },
+    {
+      "word": "Girl",
+      "category": "101 popular",
+      "tabooWords": ["woman", "female", "boy"]
+    },
+    {
+      "word": "Group",
+      "category": "101 popular",
+      "tabooWords": ["people", "company", "crowd"]
+    },
+    {
+      "word": "Hand",
+      "category": "101 popular",
+      "tabooWords": ["finger", "thumb", "arm"]
+    },
+    {
+      "word": "Head",
+      "category": "101 popular",
+      "tabooWords": ["face", "hat", "hair"]
+    },
+    {
+      "word": "Health",
+      "category": "101 popular",
+      "tabooWords": ["medicine", "cure", "well"]
+    },
+    {
+      "word": "Home",
+      "category": "101 popular",
+      "tabooWords": ["house", "bulding", "appartament"]
+    },
+    {
+      "word": "Hour",
+      "category": "101 popular",
+      "tabooWords": ["time", "minute", "second"]
+    },
+    {
+      "word": "House",
+      "category": "101 popular",
+      "tabooWords": ["home", "building", "condo"]
+    },
+    {
+      "word": "Information",
+      "category": "101 popular",
+      "tabooWords": ["data", "book", "internet"]
+    },
+    {
+      "word": "Job",
+      "category": "101 popular",
+      "tabooWords": ["work", "business", "appointment"]
+    },
+    {
+      "word": "Kid",
+      "category": "101 popular",
+      "tabooWords": ["child", "boy and girl", "youth"]
+    },
+    {
+      "word": "Line",
+      "category": "101 popular",
+      "tabooWords": ["way", "direction", "dash"]
+    },
+    {
+      "word": "Man",
+      "category": "101 popular",
+      "tabooWords": ["male", "boy", "he"]
+    },
+    {
+      "word": "Minute",
+      "category": "101 popular",
+      "tabooWords": ["time", "hour", "second"]
+    },
+    {
+      "word": "Money",
+      "category": "101 popular",
+      "tabooWords": ["value", "coin", "cash"]
+    },
+    {
+      "word": "Month",
+      "category": "101 popular",
+      "tabooWords": ["week", "year", "day"]
+    },
+    {
+      "word": "Mother",
+      "category": "101 popular",
+      "tabooWords": ["father", "woman", "child"]
+    },
+    {
+      "word": "Night",
+      "category": "101 popular",
+      "tabooWords": ["day", "moon", "AM/PM"]
+    },
+    {
+      "word": "Number",
+      "category": "101 popular",
+      "tabooWords": ["arabic", "roman", "symbol"]
+    },
+    {
+      "word": "Office",
+      "category": "101 popular",
+      "tabooWords": ["job", "work", "organisation"]
+    },
+    {
+      "word": "Party",
+      "category": "101 popular",
+      "tabooWords": ["meeting", "music", "fun"]
+    },
+    {
+      "word": "People",
+      "category": "101 popular",
+      "tabooWords": ["man and woman", "human", "crowd"]
+    },
+    {
+      "word": "Person",
+      "category": "101 popular",
+      "tabooWords": ["guy", "man and woman", "stranger"]
+    },
+    {
+      "word": "Point",
+      "category": "101 popular",
+      "tabooWords": ["dot", "circle", "round"]
+    },
+    {
+      "word": "Power",
+      "category": "101 popular",
+      "tabooWords": ["switch", "force", "electricity"]
+    },
+    {
+      "word": "President",
+      "category": "101 popular",
+      "tabooWords": ["republican", "democrat", "head"]
+    },
+    {
+      "word": "Research",
+      "category": "101 popular",
+      "tabooWords": ["study", "science", "report"]
+    },
+    {
+      "word": "Right",
+      "category": "101 popular",
+      "tabooWords": ["left", "choose", "ability"]
+    },
+    {
+      "word": "Room",
+      "category": "101 popular",
+      "tabooWords": ["appartament", "home", "house"]
+    },
+    {
+      "word": "Side",
+      "category": "101 popular",
+      "tabooWords": ["coin", "page", "sandwich"]
+    },
+    {
+      "word": "State",
+      "category": "101 popular",
+      "tabooWords": ["district", "republic", "city"]
+    },
+    {
+      "word": "Story",
+      "category": "101 popular",
+      "tabooWords": ["action", "novel", "narrative"]
+    },
+    {
+      "word": "Student",
+      "category": "101 popular",
+      "tabooWords": ["learn", "pupil", "scholar"]
+    },
+    {
+      "word": "Study",
+      "category": "101 popular",
+      "tabooWords": ["learn", "teach", "school"]
+    },
+    {
+      "word": "Teacher",
+      "category": "101 popular",
+      "tabooWords": ["trainer", "professor", "school"]
+    },
+    {
+      "word": "Team",
+      "category": "101 popular",
+      "tabooWords": ["mate", "friend", "coleague"]
+    },
+    {
+      "word": "Thing",
+      "category": "101 popular",
+      "tabooWords": ["object", "item", "commodity"]
+    },
+    {
+      "word": "Time",
+      "category": "101 popular",
+      "tabooWords": ["clock", "hour, minute and second", "day and night"]
+    },
+    {
+      "word": "War",
+      "category": "101 popular",
+      "tabooWords": ["struggle", "conflict", "strike"]
+    },
+    {
+      "word": "Water",
+      "category": "101 popular",
+      "tabooWords": ["liquid", "bottle", "drink"]
+    },
+    {
+      "word": "Way",
+      "category": "101 popular",
+      "tabooWords": ["direction", "method", "road"]
+    },
+    {
+      "word": "Week",
+      "category": "101 popular",
+      "tabooWords": ["calendar", "day", "month"]
+    },
+    {
+      "word": "Woman",
+      "category": "101 popular",
+      "tabooWords": ["female", "girl", "she"]
+    },
+    {
+      "word": "Word",
+      "category": "101 popular",
+      "tabooWords": ["letter", "book", "term"]
+    },
+    {
+      "word": "World",
+      "category": "101 popular",
+      "tabooWords": ["universe", "the Earth", "planet"]
+    },
+    {
+      "word": "Year",
+      "category": "101 popular",
+      "tabooWords": ["calendar", "month", "day"]
+    }
+  ]
+}
