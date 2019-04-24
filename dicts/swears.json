@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word": "Ass",
+      "tabooWords": ["butt", "back", "bottom"],
+      "category": "Swears"
+    },
+    {
+      "word": "Asshole",
+      "tabooWords": ["butt", "back", "hole"],
+      "category": "Swears"
+    },
+    {
+      "word": "Dick head",
+      "tabooWords": ["penis", "head", "small"],
+      "category": "Swears"
+    },
+    {
+      "word": "Choad",
+      "tabooWords": ["penis", "head", "tool"],
+      "category": "Swears"
+    },
+    {
+      "word": "Dick",
+      "tabooWords": ["penis", "stick", "tool"],
+      "category": "Swears"
+    },
+    {
+      "word": "Cunt",
+      "tabooWords": ["vagina", "camel toe", "pussy"],
+      "category": "Swears"
+    },
+    {
+      "word": "Faggot",
+      "tabooWords": ["gay", "homosexual", "LGBT"],
+      "category": "Swears"
+    },
+    {
+      "word": "Bitch",
+      "tabooWords": ["woman", "whore", "prostitute"],
+      "category": "Swears"
+    },
+    {
+      "word": "Balls",
+      "tabooWords": ["testicles", "egg", "nuts"],
+      "category": "Swears"
+    },
+    {
+      "word": "Bollocks",
+      "tabooWords": ["testicles", "egg", "nuts"],
+      "category": "Swears"
+    },
+    {
+      "word": "Bugger",
+      "tabooWords": ["homosexual", "gay", "LGBT"],
+      "category": "Swears"
+    },
+    {
+      "word": "Fuck",
+      "tabooWords": ["sex", "bang", "sleep with"],
+      "category": "Swears"
+    },
+    {
+      "word": "Bastard",
+      "tabooWords": ["child", "jerk", "moron"],
+      "category": "Swears"
+    },
+    {
+      "word": "Shit",
+      "tabooWords": ["crap", "damn", "poo"],
+      "category": "Swears"
+    },
+    {
+      "word": "Slut",
+      "tabooWords": ["prostitute", "whore", "money"],
+      "category": "Swears"
+    },
+    {
+      "word": "Prick",
+      "tabooWords": ["terrible", "rude", "stupid"],
+      "category": "Swears"
+    },
+    {
+      "word": "Wanker",
+      "tabooWords": ["jerk", "mastrubate", "hand"],
+      "category": "Swears"
+    },
+    {
+      "word": "Twat",
+      "tabooWords": ["vagina", "camel toe", "pussy"],
+      "category": "Swears"
+    }
+  ]
+}

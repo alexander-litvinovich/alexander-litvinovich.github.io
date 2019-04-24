@@ -5,9 +5,9 @@
       "title": "101 Popular",
       "uri": "101popular.json"
     },
-    "sworewords" : {
-      "title": "Swore words",
-      "uri": "swore.json"
+    "swears" : {
+      "title": "Swear words 21+",
+      "uri": "swears.json"
     }
   }
 
