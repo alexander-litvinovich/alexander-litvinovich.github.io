@@ -4,6 +4,10 @@
     "urbandictionary" : {
       "title": "101 Popular",
       "uri": "101popular.json"
+    },
+    "swears" : {
+      "title": "Swear words 21+",
+      "uri": "swears.json"
     }
   }
 
